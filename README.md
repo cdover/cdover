@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cdover
 - 👀 I’m interested in ... learning what GitHub can do
 - 🌱 I’m currently learning ... basic coding
-- 💞️ I’m looking to collaborate on ... creating a simple form that gets fill out and the info is added to a spreadsheet and email sent to me that a new line has been added
+- 💞️ I’m looking to collaborate on ... creating simple actions
 - 📫 How to reach me ... 
 
 <!---
